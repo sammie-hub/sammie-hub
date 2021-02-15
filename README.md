@@ -2,8 +2,7 @@
 
 #I love developing programs which put high impact on lot of people
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sammie-hub)](https://github.com/ryo-ma/github-profile-trophy)
-
+https://github-profile-trophy.vercel.app/?username=sammie-hub&title=Stars,Followers
 
 
 - 🔭 I’m currently working on Organic Shop, an E-commerce site
