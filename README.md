@@ -2,7 +2,7 @@
 
 #I love developing programs which put high impact on lot of people
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sammie-hub&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sammie-hub&theme=onedark&title=Joined2020,Commit,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on Organic Shop, an E-commerce site
