@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Sarthak Chhabra, people call me Sammie
+## Hi there 👋, my name is Sarthak Chhabra, people call me Sammie
 
-# I am a software generalist (Full Stack Web Developer 🌐, App Developer 📱, or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+### I am a software generalist (Full Stack Web Developer 🌐, App Developer 📱, or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammie-hub" alt="sammie-hub" /> </p>
