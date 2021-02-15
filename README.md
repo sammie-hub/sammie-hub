@@ -3,6 +3,8 @@
 #I am a versatilist (Full Stack Web Developer 🌐, App Developer 📱, or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sammie-hub" alt="sammie-hub" /> </p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=sammie-hub&theme=onedark&title=Joined2020,Commit,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 
